@@ -49,10 +49,11 @@ This project demonstrates my ability to design and implement a complete data‑w
 ---
 
 ## 🔹 Repository Structure
-datasets/        # Raw ERP and CRM data
-scripts/         # SQL scripts for Bronze, Silver, Gold layers
-docs/            # Architecture diagrams and documentation
-tests/           # Data-quality checks
+📁 datasets/        # Raw ERP and CRM data  
+📁 scripts/         # SQL scripts for Bronze, Silver, Gold layers  
+📁 docs/            # Architecture diagrams and documentation  
+📁 tests/           # Data‑quality checks  
+
 
 
 ---
